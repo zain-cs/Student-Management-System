@@ -23,7 +23,7 @@ A comprehensive command-line student management system built with Python. This a
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/zain-cs/student-management-system.git
+git clone https://github.com/zain-cs/Student-Management-System.git
 cd student-management-system
 ```
 
